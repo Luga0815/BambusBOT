@@ -1,0 +1,2 @@
+# BambusBOT
+A Discord Bot
