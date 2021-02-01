@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<jdaId>0</jdaId>
+		<introURL>URL</introURL>
+		<playIntro>true</playIntro>
+	</user>
+	<user>
+		<jdaId>1</jdaId>
+		<introURL>URL</introURL>
+		<playIntro>false</playIntro>
+	</user>
+</users>
